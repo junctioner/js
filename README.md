@@ -3,5 +3,5 @@
 2. 学会在浏览器开发者模式，查看错误，调度问题； 
 3. 深度学习[原型(prototype)]、[闭包(Closures)]、[承诺(Promise)] ,现在流行的JS框架，大量使用这些特性；
     1. [左耳朵：理解闭包](https://coolshell.cn/articles/6731.html)
-    2. [左耳朵：再谈javascript面向对象编程]（https://coolshell.cn/articles/6668.html）
+    2. [左耳朵：再谈javascript面向对象编程](https://coolshell.cn/articles/6668.html)
 4. [ECMAScript说明书](http://www.ecma-international.org/ecma-262/8.0/index.html)，学习js内部基础规范时，查看该文档。
